@@ -1,0 +1,58 @@
+.Cardpackall{
+    width: 400px;
+    background-color: #F5F3F3;
+    padding: 20px;
+    border-radius: 8px;
+}
+.Cardpackall .imgpack{
+    border-radius: 5px;
+    color: #F5F3F3;
+    width: 360px;
+}
+.Cardpackall .underimg{
+    background-color:var(--main) ;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    position: relative;
+    top: -10px;
+    width: 346px;
+}
+.Cardpackall .underimg  p{
+    font-size: 12.974px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.contentpack h4{
+    color:#181E4B;
+;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: 15px;
+}
+ .pcardText{
+    color: var(--five);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.ratingdolar{
+    display: flex;
+  
+
+}
+.ratingdolar p{
+    padding-left: 25px;
+    color: #262626;
+}
+.ratingdolar .staricon{
+    color: var(--main)
+    ;
+}

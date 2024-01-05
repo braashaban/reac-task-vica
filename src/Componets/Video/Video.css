@@ -1,0 +1,13 @@
+.videoimg{
+position: relative;
+}
+.videoplimg{
+    max-width: 100%;
+}
+.videoplay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 100%;
+}

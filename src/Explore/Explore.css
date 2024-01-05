@@ -1,0 +1,10 @@
+.Explore{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+.Explore img{
+    max-width: 100%;
+}

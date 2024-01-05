@@ -1,0 +1,67 @@
+.TrendAbout{
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  
+}
+.Trendscetion1{
+
+width: 500px;
+}
+ .Trendimg11{
+max-width: 100%;
+}
+.Trendscetion2{
+    width: 650px;
+text-align: start;
+padding: 20px;
+}
+.Trendscetion2{
+    max-width: 100%;
+    margin-top: 50px;
+
+}
+.Trendscetion2 .title11 h1{
+    font-size: 35px;
+    text-align: start;
+    margin-bottom: 10px;
+}
+.Trendscetion2 .title11 h3{
+    font-size: 20px;
+    text-align: start;
+    margin-bottom: 10px;
+}
+.Trendscetion2 .title11 p{
+    color: #2F2F2F;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.tendpersent1{
+color: var(--four);
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 20px;
+margin-top: 18px;
+}
+.tendpersent1 span{
+    padding: 35px;
+}
+.tendpersent2 span{
+    color: #181E4B;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    padding-right: 35px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+  
+  
